@@ -1,5 +1,9 @@
 # Ionic_React
 Galería de imágenes con ionic y react 
+
+
+Integrantes: Kevin Morales, Freddy Guapi
+
 Este es un proyecto sobre la creación de una galería de imágenes la misma que se encuentra creada en ionic y react.
 
 1.-Abrimos nuestro proyecto en Android Studio  y se debe ver que estén incluidas:Permissions.
